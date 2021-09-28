@@ -14,7 +14,7 @@
   - *Dev Dependencies*
     - Nodemon (2.0.13): Persistent dev server demon.
   - [Chat App Git](https://github.com/duquejo01/Chat-App): GIT Source.
-  - [Chat App Demo](#): Live Chat App Public Demo.
+  - [Chat App Demo](https://duque-chat-app.herokuapp.com/): Live Chat App Public Demo.
 
 ## Bootcamp Index
 
